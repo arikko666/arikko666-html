@@ -1,5 +1,4 @@
 
-var numposts = 100;
 var standardstyling = true;
 
 /*  programmer and maker of this code is belong to founder of http://www.ardilas.com
