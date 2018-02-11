@@ -1,5 +1,7 @@
 
 var standardstyling = true;
+   var totalEntires =0; //Entries grabbed till now
+   var totalPosts =0; //Total number of posts in the blog.
 
 /*  programmer and maker of this code is belong to founder of http://www.ardilas.com
     rawgit url (https://cdn.rawgit.com/D-dig/js/gh-pages/sitemap3.js)
