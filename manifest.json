@@ -1,0 +1,38 @@
+{
+  "name": "Novel Raw",
+  "short_name": "Novel Raw",
+  "start_url": "https://novelraw.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#4267b2",
+  "description": "A blog that contains novel MTL translation machines, raw, from Japanese, Chinese to English and other countries.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-gJOeJMo4Qls/XFqaGIDMGEI/AAAAAAAAEeM/oL63gmqYyMovg_O2spOFjts2jjNuOKHEgCK4BGAYYCw/s48/icon-Novel-Raw.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gJOeJMo4Qls/XFqaGIDMGEI/AAAAAAAAEeM/oL63gmqYyMovg_O2spOFjts2jjNuOKHEgCK4BGAYYCw/s72/icon-Novel-Raw.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gJOeJMo4Qls/XFqaGIDMGEI/AAAAAAAAEeM/oL63gmqYyMovg_O2spOFjts2jjNuOKHEgCK4BGAYYCw/s96/icon-Novel-Raw.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gJOeJMo4Qls/XFqaGIDMGEI/AAAAAAAAEeM/oL63gmqYyMovg_O2spOFjts2jjNuOKHEgCK4BGAYYCw/s144/icon-Novel-Raw.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gJOeJMo4Qls/XFqaGIDMGEI/AAAAAAAAEeM/oL63gmqYyMovg_O2spOFjts2jjNuOKHEgCK4BGAYYCw/s168/icon-Novel-Raw.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gJOeJMo4Qls/XFqaGIDMGEI/AAAAAAAAEeM/oL63gmqYyMovg_O2spOFjts2jjNuOKHEgCK4BGAYYCw/s192/icon-Novel-Raw.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gJOeJMo4Qls/XFqaGIDMGEI/AAAAAAAAEeM/oL63gmqYyMovg_O2spOFjts2jjNuOKHEgCK4BGAYYCw/s512/icon-Novel-Raw.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
